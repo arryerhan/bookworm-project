@@ -1,0 +1,27 @@
+.category-container {
+    align-items: start;
+    max-width: 400px; 
+    text-align: left; 
+  }
+  
+  .list-group-item {
+    color:#fff;
+    background-color: #000;
+    padding: 10px 0 10px 20px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .list-group-item:hover {
+    background-color: #1270FD;
+    color: #fff;
+    cursor: pointer;
+    transform: translateY(-3px);
+  }
+  
+  h2 {
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,239 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://m.media-amazon.com/images/I/410V9KJISjL._SL350_.jpg",
+        "year": 1813,
+        "page": 432,
+        "price": 30.99,
+        "description": "A romantic novel that explores the issues of class, marriage, and morality in 19th-century England.",
+        "category": "Novel"
+      },
+      {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327144697i/3744438.jpg",
+        "year": 1949,
+        "page": 328,
+        "price": 26.99,
+        "description": "A dystopian novel that delves into themes of surveillance, totalitarianism, and individual freedom.",
+        "category": "Novel"
+      },
+      {
+        "id": 3,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://moesbooks.cdn.bibliopolis.com/pictures/1146471.jpg?auto=webp&v=1705623566",
+        "year": 1960,
+        "page": 324,
+        "price": 27.99,
+        "description": "A timeless novel set in the American South, exploring themes of racism, justice, and morality through the eyes of a young girl.",
+        "category": "Novel"
+      },
+      {
+        "id": 4,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "image": "https://m.media-amazon.com/images/I/51VVyFGwS+L._SL350_.jpg",
+        "year": 1851,
+        "page": 635,
+        "price": 35.99,
+        "description": "An epic tale of obsession and revenge centered around the hunt for the white whale, Moby Dick.",
+        "category": "Classic"
+      },
+      {
+        "id": 5,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://www.hachettebookgroup.com/wp-content/uploads/2024/01/9780762498147.jpg",
+        "year": 1925,
+        "page": 180,
+        "price": 18.99,
+        "description": "A novel that explores the Jazz Age in the United States, capturing the excess, ambition, and tragedy that defined the 1920s.",
+        "category": "Novel"
+      },
+      {
+        "id": 6,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGNyOU8qUjcKT_T8TQplUR2M-EyIfULXjzw&s",
+        "year": 1869,
+        "page": 1225,
+        "price": 40.99,
+        "description": "A sweeping historical novel that intertwines the lives of families with the Napoleonic Wars in Russia.",
+        "category": "Classic"
+      },
+      {
+        "id": 7,
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "image": "https://m.media-amazon.com/images/I/51QRgmfetKL._AC_UF1000,1000_QL80_.jpg",
+        "year": 1847,
+        "page": 500,
+        "price": 28.99,
+        "description": "A gothic romance that follows the life and trials of the titular heroine, Jane Eyre, as she seeks independence and love.",
+        "category": "Classic"
+      },
+      {
+        "id": 8,
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "image": "https://goodbooksandgoodwine.com/wp-content/uploads/2014/02/Wuthering-Heights-Emily-Bronte-Book-Cover-1.jpg",
+        "year": 1847,
+        "page": 416,
+        "price": 26.99,
+        "description": "A dark and passionate tale of love and revenge set on the Yorkshire moors.",
+        "category": "Classic"
+      },
+      {
+        "id": 9,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "image": "https://i.thriftbooks.com/api/imagehandler/m/3E4601E54313BFA55DB929797BC9890231D9BF2F.jpeg",
+        "year": 1866,
+        "page": 671,
+        "price": 32.99,
+        "description": "A psychological exploration of guilt and redemption centered on a young man's crime and its consequences.",
+        "category": "Classic"
+      },
+      {
+        "id": 10,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/800px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+        "year": 1951,
+        "page": 277,
+        "price": 23.99,
+        "description": "A classic novel that captures the rebellious spirit of adolescence and critiques societal expectations through the perspective of Holden Caulfield.",
+        "category": "Novel"
+      },
+      {
+        "id": 11,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "image": "https://m.media-amazon.com/images/I/411MY5+ApVL._SL350_.jpg",
+        "description": "A satirical science fiction novel that critiques the use of technology, mass production, and social conformity.",
+        "year": 1932,
+        "pages": 311,
+        "price": 12.99,
+        "category": "Fiction"
+      },
+      {
+        "id": 12,
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "image": "https://m.media-amazon.com/images/I/71IhpQ5galL._SY522_.jpg",
+        "description": "An introduction to modern physics and cosmology, exploring the universe, black holes, time travel, and the nature of reality.",
+        "year": 1988,
+        "pages": 212,
+        "price": 15.99,
+        "category": "Science"
+      },
+      {
+        "id": 13,
+        "title": "The Selfish Gene",
+        "author": "Richard Dawkins",
+        "image": "https://m.media-amazon.com/images/I/51K1epclqWL._SL350_.jpg",
+        "description": "A revolutionary book that explains evolution from the perspective of genes, proposing that they are the fundamental units of selection in natural selection.",
+        "year": 1976,
+        "pages": 360,
+        "price": 18.99,
+        "category": "Science"
+      },
+      {
+        "id": 14,
+        "title": "Cosmos",
+        "author": "Carl Sagan",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388620656i/55030.jpg",
+        "description": "A beautifully written exploration of the universe, blending science, philosophy, and the search for extraterrestrial life.",
+        "year": 1980,
+        "pages": 384,
+        "price": 16.99,
+        "category": "Science"
+      },
+      {
+        "id": 15,
+        "title": "The Origin of Species",
+        "author": "Charles Darwin",
+        "image": "https://m.media-amazon.com/images/I/91stRjShWFL._SY385_.jpg",
+        "description": "Darwin's groundbreaking work that established the theory of natural selection and revolutionized our understanding of evolution.",
+        "year": 1859,
+        "pages": 502,
+        "price": 20.99,
+        "category": "Science"
+      },
+      {
+        "id": 16,
+        "title": "The Gene: An Intimate History",
+        "author": "Siddhartha Mukherjee",
+        "image": "https://m.media-amazon.com/images/I/71ZGYmVZKXL._SY385_.jpg",
+        "description": "A compelling history of genetics, exploring the science of inheritance and the ethical questions surrounding genetic research.",
+        "year": 2016,
+        "pages": 608,
+        "price": 22.99,
+        "category": "Science"
+      },
+      {
+        "id": 17,
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://m.media-amazon.com/images/I/61ZKK6Y1nFL._SY385_.jpg",
+        "description": "An exploration of the history of the human species, from the emergence of Homo sapiens to modern-day challenges.",
+        "year": 2011,
+        "pages": 443,
+        "price": 19.99,
+        "category": "Non-fiction"
+      },
+      {
+        "id": 18,
+        "title": "Educated",
+        "author": "Tara Westover",
+        "image": "https://m.media-amazon.com/images/I/71-4MkLN5jL.jpg",
+        "description": "A memoir about growing up in a strict and abusive family in rural Idaho, and the journey to educate herself against all odds.",
+        "year": 2018,
+        "pages": 352,
+        "price": 16.49,
+        "category": "Non-fiction"
+      },
+      {
+        "id": 19,
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": "Rebecca Skloot",
+        "image": "https://wildandthesage.com/cdn/shop/products/9781509877027.jpg?v=1671111150",
+        "description": "The story of Henrietta Lacks, whose cells were used without consent to revolutionize medical research, raising issues of ethics and racism.",
+        "year": 2010,
+        "pages": 381,
+        "price": 14.99,
+        "category": "Non-fiction"
+      },
+      {
+        "id": 20,
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612402901i/56786139.jpg",
+        "description": "The memoir of former First Lady Michelle Obama, chronicling her life, struggles, and experiences leading up to her time in the White House.",
+        "year": 2018,
+        "pages": 448,
+        "price": 21.99,
+        "category": "Non-fiction"
+      },
+      {
+        "id": 21,
+        "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+        "author": "Susan Cain",
+        "image": "https://i.thriftbooks.com/api/imagehandler/m/FA8E6D54844265043E25A9999937283E7EFB318D.jpeg",
+        "description": "An insightful look at the power of introverts, challenging societal assumptions about extroversion and the value of quieter individuals.",
+        "year": 2012,
+        "pages": 368,
+        "price": 17.99,
+        "category": "Non-fiction"
+      }
+    ]
+  }
+  
+
+ 
+  

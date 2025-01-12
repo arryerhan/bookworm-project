@@ -1,0 +1,21 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 10;
+  }
+  
+  .footer-img {
+    height: 20px; 
+    border-radius: 50%;
+    width: auto;
+  }
+  
+  footer span {
+    font-size: 0.9rem;
+  }
+  
+  footer span.fw-bold {
+    font-size: 1rem; 
+  }
+  

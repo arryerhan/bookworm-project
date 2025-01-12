@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #d2d2d2 !important;
+  color: #fff;
+}
+
+.books-container{
+  margin:30px 70px 70px 70px;
+}
+
+.cardo:hover{
+  scale:1.01 ;
+  cursor: pointer;
+}
+.card a {
+  text-decoration: none; 
+}
+
+.card a:hover {
+  text-decoration: none;}

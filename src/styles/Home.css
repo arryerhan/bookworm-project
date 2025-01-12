@@ -1,0 +1,21 @@
+.image-container {
+  height:85vh; 
+  width: 100%; 
+  background-image: url('/bg.png');
+  background-size:cover; 
+  background-position: contain;
+  background-repeat: no-repeat; 
+}
+
+.overlay-text {
+  z-index: 1;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7); 
+}
+
+.home-title {
+  font-size: 3rem;
+}
+
+.home-desc {
+  font-size: 1.25rem;
+}

@@ -1,0 +1,15 @@
+.book-detail-image {
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .card {
+    border-radius: 10px;
+    height: 300px;
+
+  }
+    
+  h2, h4 {
+    margin-bottom: 15px;
+  }
+  
