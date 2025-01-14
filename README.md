@@ -18,3 +18,22 @@
 - Search: Quickly search for books by title or author.
 - Categories: Books are categorized into various genres (classic,fiction,non-fiction, etc.).
 - Responsive Design: Fully responsive UI built with Bootstrap to look great on any - device.
+
+## Screenshots
+
+![screen01](https://github.com/user-attachments/assets/7188bd9f-bda2-4225-a944-7a671e820851)
+
+![screen02](https://github.com/user-attachments/assets/454da02b-01b4-4b4a-8491-3051bcd69dc8)
+
+
+
+
+
+
+
+
+
+
+
+
+
